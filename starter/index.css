@@ -1,0 +1,28 @@
+.title, .row {
+    width: 800px;
+}
+
+.title {
+    margin: auto;
+    text-align: center;
+}
+
+.row {
+    margin: auto;
+    border: 1px solid black;
+}
+
+.info {
+    text-align: center;
+}
+
+.user {
+    border-left: 1px solid black;
+}
+.user-header{
+    text-align: center;
+}
+
+p {
+    font-size: 12px;
+}
